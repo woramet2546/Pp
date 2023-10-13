@@ -629,7 +629,7 @@ p{
     height: 550px;
     width:1000px;
     display: flex;
-    background: url(./Image/wolrd5g.jpg);
+    background: url(./image/wolrd5g.jpg);
     background-position:center;
     background-size: cover;
     animation: slide 12s infinite;
@@ -641,19 +641,19 @@ p{
 
 @keyframes slide{
     10%{
-        background: url(./Image/wolrd5g.jpg);
+        background: url(./image/wolrd5g.jpg);
     }
    
     50%{
-        background: url(./Image/two.png);
+        background: url(./image/two.png);
     }
 
     75%{
-        background: url(./Image/wolrd5g.jpg);
+        background: url(./image/wolrd5g.jpg);
     }
    
     100%{
-        background: url(./Image/two.png);
+        background: url(./image/two.png);
     }
 }
 /* ขอบเขตของสไลด์ */
