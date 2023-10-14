@@ -158,7 +158,7 @@ body {
     border-radius: 16px;
     background: black;
     z-index: 1;
-    background: url(./Image/Nm2.jpg);
+    background: url(./image/Nm2.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -196,7 +196,7 @@ body {
 }
 
 .header2 {
-    width: 100%;
+    width: 90%;
     height: 350px;
     display: flex;
     align-items: center;
@@ -209,11 +209,10 @@ body {
     background: url(./image/WORLD.jpg);
     background-size: cover;
     background-position: center;
-    width: 500px;
+    width: 30%;
     height: 100%;
     position:absolute;
     left: 0;
-    margin-left: 14.5rem;
     transition:0.5s all;
     border-radius: 10px;
     box-shadow: 5px 5px 30px 5px black;
@@ -229,13 +228,12 @@ body {
     background:url(./image/T6.jpg);
     background-position: center;
     background-size: cover;
-    width: 300px;
-    height: 49.86%;
+    width: 30%;
+    height: 100%;
     position:absolute;
     top: 0;
     right: 0;
     transition:0.5s all;
-    margin-right: 19.6rem;
     border-radius: 10px;
     box-shadow: 5px 5px 30px 5px black;
 }
@@ -249,12 +247,11 @@ body {
     background: url(./image/T5.webp);
     background-position: center;
     background-size: cover;
-    width: 300px;
-    height: 49.86%;
+    width: 30%;
+    height: 100%;
     position:absolute;
     bottom: 0;
     right: 0;
-    margin-right: 19.6rem;
     transition:0.5s all;
     border-radius: 10px;
     box-shadow: 5px 5px 30px 5px black;
