@@ -158,7 +158,7 @@ body {
     border-radius: 16px;
     background: black;
     z-index: 1;
-    background: url(./image/Nm2.jpg);
+    background: url(./Image/Nm2.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -202,6 +202,7 @@ body {
     align-items: center;
     justify-content: center;
     margin-top:1rem;
+    margin-left: 4rem;
     position: relative;
 }
 
@@ -211,7 +212,7 @@ body {
     background-position: center;
     width: 30%;
     height: 100%;
-    position:absolute;
+    position:relative;
     left: 0;
     transition:0.5s all;
     border-radius: 10px;
@@ -228,9 +229,9 @@ body {
     background:url(./image/T6.jpg);
     background-position: center;
     background-size: cover;
-    width: 30%;
+    width: 50%;
     height: 100%;
-    position:absolute;
+    position:relative;
     top: 0;
     right: 0;
     transition:0.5s all;
@@ -249,7 +250,7 @@ body {
     background-size: cover;
     width: 30%;
     height: 100%;
-    position:absolute;
+    position:relative;
     bottom: 0;
     right: 0;
     transition:0.5s all;
