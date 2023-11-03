@@ -727,7 +727,7 @@ h2 {
     text-transform: uppercase;
 }
 
-h2::before {
+.logo h2::before {
     content: attr(data-text);
     position:absolute;
     top: 0;
